@@ -1,0 +1,6 @@
+{
+  "name": "English Hub | RIGHT NOW: The World Is Happening",
+  "description": "An interactive A1.2 English learning experience by Learning & Development Studio exploring the Present Continuous through live global documentary observation, guided grammar discovery, and communicative production.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
